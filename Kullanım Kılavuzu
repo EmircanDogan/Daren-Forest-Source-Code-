@@ -1,0 +1,10 @@
+Oyunda ana karakterimiz ateş şovalyesi için komut listesi şunlardır.
+
+--Hareket--
+Sağa yürüme -> 'D'
+Sola yürüme -> 'A'
+Hafif Saldırı -> 'Fare Butonu 1'
+Ağır Saldırı -> 'Fare Butonu 2'
+Zıplama -> 'Boşluk Tuşu'
+Takla atma -> 'Sol Shift Tuşu'
+Blok Yapma -> 'Q Tuşu(Hold)'
