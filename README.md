@@ -1,0 +1,1 @@
+- Oyunum beta sürümüdür ilk game dev çalışmam olup aynı zamanda software engineering dersime hazırladığım proje prototipim yerine geçmektedir.
