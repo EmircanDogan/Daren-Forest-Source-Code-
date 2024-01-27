@@ -1,1 +1,2 @@
 - Oyunum beta sürümüdür ilk game dev çalışmam olup aynı zamanda software engineering dersime hazırladığım proje prototipim yerine geçmektedir.
+- Kaynak kodunu indirmenize gerek yok, sadece Daren Forest adlı dosyayı indirmeniz kullanım testi için yeterlidir.
