@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gutz
+  - skeleton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemies
+  - gutz
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3278616105
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sand
+    uniqueID: 1991552825
+    locked: 0
+  - name: "\xE7imen"
+    uniqueID: 4038499235
+    locked: 0
+  - name: charrr
+    uniqueID: 550479263
+    locked: 0
+  - name: text
+    uniqueID: 2523820739
+    locked: 0
